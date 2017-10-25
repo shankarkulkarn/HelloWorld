@@ -1,1 +1,2 @@
 hello from c.txt
+second line added
